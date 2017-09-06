@@ -1,2 +1,3 @@
 # hello-world
 A testing repository to get used to GitHub.
+What we really are trying to do, is to get beyond these simple things...
